@@ -1,2 +1,2 @@
-# inzynierka-dokumentacja
-Repozytorium dla dokumentacji pracy inżynierskiej.
+# Praca Inżynierska - Repozytorium dla Dokumentacji Pracy
+Damian Banach
