@@ -1,4 +1,5 @@
 Wstępny zarys, koncept Aplikacji:
+
 # Wstępne technologie:
 Backend: PHP (Laravel) lub Django
 Frontend: React lub Angular
@@ -16,14 +17,18 @@ Frontend: React lub Angular
 # Krótki zarys aktorów nieosobowych
 System Przydzielania zespołów do danej firmy przydzielałby zespół wedle określonych kryteriów, za które odpowiadałby System Klasyfikacji.
 
-System Klasyfikacji miałby za zadanie określenie swoistej pozycji danego zespołu w rankingu pierwszeństwa, czyli w jakiej kolejności byłby dany zespół w kolejce do przydzielenia do danej firmy.
+System Klasyfikacji miałby za zadanie określenie swoistej pozycji danego zespołu w rankingu pierwszeństwa, czyli w jakiej kolejności byłby dany zespół 
+w kolejce do przydzielenia do danej firmy.
 Klasyfikacja odbywałaby się poprzez kilka współczynników:
 - czas, w jakim został skompletowany zespół 
-np. zapisy na projekt rozpoczęły się 01.02.2022, a dany zespół został skompletowany tego samego dnia to za to np. zespół otrzymałby 10pkt rekrutacyjnych natomiast inny zespół, który został skompletowany 4 dni później otrzymałby takich punktów np. 5pkt
+np. zapisy na projekt rozpoczęły się 01.02.2022, a dany zespół został skompletowany tego samego dnia to za to np. zespół otrzymałby 
+10pkt rekrutacyjnych natomiast inny zespół, który został skompletowany 4 dni później otrzymałby takich punktów np. 5pkt
 - czas, w jakim zespół określił swój ranking firm
-np. prezentacja firm rozpoczęła się 03.02.2022, a dany zespół określił swój ranking zaraz po prezentacji wszystkich firm to za to np. zespół otrzymałby 10pkt rekrutacyjnych natomiast inny zespół, który by stworzył swój ranking firm 2 dni później otrzymałby takich punktów np. 7pkt
+np. prezentacja firm rozpoczęła się 03.02.2022, a dany zespół określił swój ranking zaraz po prezentacji wszystkich firm to za to np. zespół 
+otrzymałby 10pkt rekrutacyjnych natomiast inny zespół, który by stworzył swój ranking firm 2 dni później otrzymałby takich punktów np. 7pkt
 
-Na ten moment to wszystkie moje pomysły na współczyniki, ale jeszcze kilka wypadałoby dorzucić. Po zdobyciu danej ilości punktów brana byłaby średnia punktów i średnia określałaby pozycję w rankingu.
+Na ten moment to wszystkie moje pomysły na współczyniki, ale jeszcze kilka wypadałoby dorzucić. Po zdobyciu danej ilości punktów brana byłaby 
+średnia punktów i średnia określałaby pozycję w rankingu.
 
 # Wstępne myśli odnośnie funkcjonalności, przypadków użycia danego aktora:
 Każdy aktor:
