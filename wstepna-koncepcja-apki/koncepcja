@@ -1,3 +1,5 @@
+TEMAT: System do zapisu na projekt zespołowy
+
 Wstępny zarys, koncept Aplikacji:
 
 # Wstępne technologie:
@@ -47,5 +49,6 @@ Lider Zespołu
 - Określenie rankingu firm
 - Dodanie Członka zespołu
 - Określenie rol w zespole, czy Backend, czy też Frontend
+- Ustawienie rankingów wybranych firm
 Pracownik Firmy
 - Przygotowanie wizytówki firmy(opis, w którym będzie mógł opowiedzieć o firmie w czym się specjalizują itd)
