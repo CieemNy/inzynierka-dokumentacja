@@ -40,7 +40,7 @@ Każdy aktor:
 Administrator
 - Zarządzanie systemem(zarządzanie użytkownikami, edycje itd, określenie roli użytkownika) 
 - Określanie terminów rozpoczęcia i końca zapisów
-- Dodawanie Ogłoszeń, Powiadomień
+- Dodawanie Ogłoszeń
 Członek Zespołu
 - Edycja swojego profilu
 - Dołączenie do Zespołu
@@ -48,7 +48,6 @@ Członek Zespołu
 Lider Zespołu
 - Określenie rankingu firm
 - Dodanie Członka zespołu
-- Określenie rol w zespole, czy Backend, czy też Frontend
-- Ustawienie rankingów wybranych firm
+- Opisz zespół
 Pracownik Firmy
 - Przygotowanie wizytówki firmy(opis, w którym będzie mógł opowiedzieć o firmie w czym się specjalizują itd)
